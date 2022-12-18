@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font: normal 15pt Times;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+header{
+    color: whitesmoke;
+    text-align: center;
+    font: italic 35px Times;
+}
